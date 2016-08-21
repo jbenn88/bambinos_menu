@@ -1,0 +1,76 @@
+
+  $scope.pizzas = [
+    {
+      name: 'Cheese',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: '1 Topping',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: '2 Topping',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: '3 Topping',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: '4 Topping',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Supreme',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Super Supreme',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Meat Lovers',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Stuffed',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Veggie',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'Ranch Mushroom & Spinach',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+    {
+      name: 'White Fresh Garlic Broccoli Tomato',
+      smPrice: 8.75
+      mdPrice: 9.75
+      lgPrice: 10.75
+    },
+
+  ];
